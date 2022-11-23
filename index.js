@@ -6,7 +6,7 @@ function login() {
 
 
     if (username == "Sujeet" && pass == "321") {
-        location.assign("http://127.0.0.1:5501/index.html");
+        window.location("http://127.0.0.1:5501/index.html");
     }
     else if (username == "Sujeet" && pass != "") {
         alert("Invailed Password");
