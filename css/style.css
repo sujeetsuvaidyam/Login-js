@@ -1,0 +1,17 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.btn {
+    width: 100%;
+}
+
+#col {
+    background-color: rgb(193, 164, 220);
+    border-radius: 10px;
+    padding: 45px;
+    /* border: 1px solid rgb(116, 153, 167); */
+}
